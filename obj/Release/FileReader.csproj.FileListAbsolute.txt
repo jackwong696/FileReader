@@ -1,0 +1,3 @@
+C:\Users\User\Documents\WWJ Software Solution\Projects\Library\Library\obj\Release\FileReader.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\WWJ Software Solution\Lib\FileReader.dll
+C:\Users\User\Documents\WWJ Software Solution\Projects\Library\Library\obj\Release\FileReader.dll
